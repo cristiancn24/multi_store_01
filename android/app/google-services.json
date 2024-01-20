@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075921622404",
+    "project_id": "multiwebapp-b7081",
+    "storage_bucket": "multiwebapp-b7081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075921622404:android:94d72818a364954b9db9d1",
+        "android_client_info": {
+          "package_name": "com.cristianjimenez.multi_store_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRXT8i4SAsW-hr4cF9Pa8NGJFUMvKJSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
